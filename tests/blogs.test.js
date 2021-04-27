@@ -84,6 +84,6 @@ describe('When logged out', async () => {
         },
       }).then(res => res.json());
     });
-    expect(res).toEqual({ error: 'You must log in!' });
+    expect(res).toEqual({ error: 'You must be logged in!' });
   });
 });
