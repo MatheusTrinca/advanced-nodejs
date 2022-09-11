@@ -1,2 +1,2 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+Este é um server side rendering site, usando MVC NodeJs
+Vanilla Javascript no front end
